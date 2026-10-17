@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'dart:math';
+import 'dart:math' as math;
 import 'package:code_practice/code_practice.dart' as code_practice;
 
 void main(List<String> arguments) {
